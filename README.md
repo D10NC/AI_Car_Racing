@@ -42,14 +42,3 @@ python watch.py
 
 ## Notes
 AI was used to help with explanations, debugging and documentation.
-
-## Before vs after
-
-**Before (240,000 steps):**
-<img width="744" height="536" alt="Car driving badly at 20,000 steps" src="https://github.com/user-attachments/assets/f308883c-2a8e-4fdb-8da7-43dcdcde6c31" />
-
-**After (final model):**
-
-
-
-
