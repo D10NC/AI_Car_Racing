@@ -21,7 +21,7 @@ During training, the AI kept finding loopholes in the rules instead of driving p
 Each loophole meant changing the rules and retraining. Giving up was not fully solved, so the earlier, better-balanced model was kept.
 
 ## Results
-The agent completes around 99% of the track and has achieved a valid lap.
+The agent has completed a valid lap and reaches around 99% of the track. It isn't consistent yet: in the replay it crosses the line cleanly, then runs onto the grass afterwards, so the next lap shows as invalid.
 
 ## Built with
 - Python 3.13
